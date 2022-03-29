@@ -32,7 +32,6 @@ func runTest(input int) {
 		forLoopOddCount(min, max)
 	default:
 		fmt.Println("Error, wrong number input.")
-		break
 	}
 }
 
